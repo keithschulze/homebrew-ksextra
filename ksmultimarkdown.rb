@@ -1,6 +1,6 @@
 require 'formula'
 
-class Multimarkdown < Formula
+class Ksmultimarkdown < Formula
   homepage 'http://fletcherpenney.net/multimarkdown/'
 
   # Use the tag instead of the tarball to get submodules
