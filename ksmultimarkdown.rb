@@ -7,7 +7,7 @@ class Ksmultimarkdown < Formula
   url 'https://github.com/keithschulze/peg-multimarkdown.git', :tag => '3.6'
   version '3.6'
 
-  head 'https://github.com/keithschulze/peg-multimarkdown.git', :branch => 'dev-citation'
+  head 'https://github.com/keithschulze/peg-multimarkdown.git', :branch => 'dev-citation-m'
 
   def install
     # Since we want to use our CFLAGS, we need to add the following:
